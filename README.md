@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhay084" alt="abhay084" /></a> </p>
 
-- 🔭 I’m currently working on **Software Development**
+- 🔭 I’m currently working on **Software Development Engineer**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
